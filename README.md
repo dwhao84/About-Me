@@ -23,7 +23,7 @@ While you walk through this sample, try swapping out the information and edit co
 ### ContentView.swift
 
 <p align="center">
-<img src="https://github.com/dwhao84/About-Me/blob/9c8a3fee7755667f975c104e886d09683dae6bd7/About%20Me/Assets.xcassets/README/ContentView.dataset/ContentView.gif" width="428" height="810"/>
+<img src="https://github.com/dwhao84/About-Me/blob/38ae562053d940deff51664f75299b2af673a4c4/About%20Me/Assets.xcassets/README/ContentView.dataset/ContentView.gif" width="428" height="810"/>
 </p> 
 
 A `ContentView` that shows different views using a `TabView` to switch between different Views.
@@ -192,7 +192,7 @@ struct FavoritesView: View {
 ### FunFactsView.swift
 
 <p align="center">
-<img src="https://github.com/dwhao84/About-Me/blob/9c8a3fee7755667f975c104e886d09683dae6bd7/About%20Me/Assets.xcassets/README/FunFactsView.imageset/FunFactsView.png" width="428" height="810"/>
+<img src="https://github.com/dwhao84/About-Me/blob/38ae562053d940deff51664f75299b2af673a4c4/About%20Me/Assets.xcassets/README/FunFacts_Gif.dataset/FunFacts_Gif.gif" width="428" height="810"/>
 </p> 
 
 Using `@State` property to store a string named `funFact`.
