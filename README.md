@@ -1,6 +1,7 @@
 #  About me App
 This is practice from Apple, it teaches you how to use the SwiftUI to build an App b using Apple way.
-[About Me](https://developer.apple.com/tutorials/sample-apps/aboutme)
+
+* [About Me](https://developer.apple.com/tutorials/sample-apps/aboutme)
 
 ## About Me
 Display data from a central source in multiple views.
@@ -23,7 +24,7 @@ While you walk through this sample, try swapping out the information and edit co
 * ContentView.swift
 
 <p align="center">
-<img src="" width="428" height="810"/>
+<img src="https://github.com/dwhao84/About-Me/blob/9c8a3fee7755667f975c104e886d09683dae6bd7/About%20Me/Assets.xcassets/README/ContentView.dataset/ContentView.gif" width="428" height="810"/>
 </p> 
 
 A `ContentView` that shows different views using a `TabView` to switch between different Views.
@@ -102,7 +103,7 @@ let information = Info(
 * FunFactsView.swift
 
 <p align="center">
-<img src="" width="428" height="810"/>
+<img src="https://github.com/dwhao84/About-Me/blob/9c8a3fee7755667f975c104e886d09683dae6bd7/About%20Me/Assets.xcassets/README/FunFactsView.imageset/FunFactsView.png" width="428" height="810"/>
 </p> 
 
 Using `@State` property to store a string named `funFact`.
@@ -143,7 +144,7 @@ struct FunFactsView: View {
 * FavoritesView.swift
 
 <p align="center">
-<img src="" width="428" height="810"/>
+<img src="https://github.com/dwhao84/About-Me/blob/9c8a3fee7755667f975c104e886d09683dae6bd7/About%20Me/Assets.xcassets/README/FavoritesView.imageset/FavoritesView.png" width="428" height="810"/>
 </p> 
 
 Create the `FavoritesView` for showing different content by using HStack to show my different hobbies, foods, colors.
@@ -204,7 +205,7 @@ struct FavoritesView: View {
 * StoryView.swift
 
 <p align="center">
-<img src="" width="428" height="810"/>
+<img src="https://github.com/dwhao84/About-Me/blob/9c8a3fee7755667f975c104e886d09683dae6bd7/About%20Me/Assets.xcassets/README/StoryView.imageset/StoryView.png" width="428" height="810"/>
 </p> 
 
 I created a `StoryView` for show my personal story info, so that the user could be easily to understand who am i.
@@ -239,7 +240,7 @@ struct StoryView: View {
 * HomeView.swift
 
 <p align="center">
-<img src="" width="428" height="810"/>
+<img src="https://github.com/dwhao84/About-Me/blob/9c8a3fee7755667f975c104e886d09683dae6bd7/About%20Me/Assets.xcassets/README/HomeView.imageset/HomeView.png" width="428" height="810"/>
 </p> 
 
 
